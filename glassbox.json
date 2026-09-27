@@ -1,0 +1,106 @@
+{
+  "slug": "intestineclear",
+  "box": 36,
+  "date": "2026-10-16",
+  "title": "IntestineClear",
+  "question": "How do the intestines work?",
+  "hook": "Between your stomach and the exit lies a folded tube 3 to 5 metres long, with an inner surface of about 30 square metres and 38 trillion bacteria living in it. Unpack the intestines in 3D, zoom down to the villi, and watch a meal of roti, dal and paneer get cut into molecules.",
+  "thumbText": "HOW YOUR GUT WORKS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "intestines",
+    "digestion",
+    "small intestine",
+    "colon",
+    "villi",
+    "gut microbiome",
+    "ORS",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A long, folded tube",
+      "text": "After the stomach comes the small intestine: duodenum, jejunum and ileum, about 3 to 5 metres long in a living person (the 6 to 7 m in some books is measured after death, when the muscle has relaxed). The mesentery holds its coils. The large intestine, about 1.5 m, runs from the caecum and appendix up, across and down to the rectum."
+    },
+    {
+      "title": "Folds on folds",
+      "text": "Circular folds, finger-like villi and the microvilli on every lining cell multiply the absorbing surface to about 30 square metres: half a badminton court, not the tennis court of old textbooks (Helander and Fändriks, 2014). Sugars and amino acids go into capillaries; fats go into the lacteals."
+    },
+    {
+      "title": "Squeeze, mix, sweep",
+      "text": "Peristalsis squeezes behind the food and relaxes in front. Segmentation sloshes it back and forth to mix. Between meals a housekeeping wave, the migrating motor complex, sweeps the gut clean and makes it growl. Chyme takes about 2 to 6 hours through the small intestine and often 12 to 48 hours through the colon."
+    },
+    {
+      "title": "Molecular scissors",
+      "text": "In the duodenum, bile from the liver breaks fat into droplets, and pancreatic juice brings enzymes and bicarbonate to neutralise stomach acid. Starch becomes glucose, proteins become amino acids, and fats become fatty acids and monoglycerides."
+    },
+    {
+      "title": "38 trillion helpers",
+      "text": "The colon saves water, taking back nearly all of the 1.5 litres that reaches it, and houses about 38 trillion bacteria, roughly as many as your own cells, not ten times more. They ferment fibre into short-chain fatty acids that fuel the colon's lining."
+    },
+    {
+      "title": "When things go wrong",
+      "text": "Diarrhoea can dehydrate, but ORS, salt and sugar in clean water, uses the sodium-glucose partnership to pull water back in: a discovery proven in Dhaka and Kolkata. Lactose intolerance, coeliac disease and appendicitis are explained as general facts. For your own gut, talk to a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Chyme",
+      "def": "The soupy mix of part-digested food and stomach juice that enters the small intestine."
+    },
+    {
+      "term": "Duodenum, jejunum, ileum",
+      "def": "The three parts of the small intestine, in order from the stomach."
+    },
+    {
+      "term": "Mesentery",
+      "def": "The fan-shaped fold of tissue that holds the intestines and carries their blood vessels."
+    },
+    {
+      "term": "Villi and microvilli",
+      "def": "Tiny fingers on the gut lining, and even tinier ones on each lining cell, that multiply its surface."
+    },
+    {
+      "term": "Lacteal",
+      "def": "The lymph vessel inside each villus that takes in fats."
+    },
+    {
+      "term": "Peristalsis",
+      "def": "A travelling wave of muscle contraction that pushes food along."
+    },
+    {
+      "term": "Enzyme",
+      "def": "A protein that speeds up a reaction, such as cutting a big food molecule into small ones."
+    },
+    {
+      "term": "Short-chain fatty acids",
+      "def": "Acids such as butyrate made by gut bacteria from fibre; they fuel the colon's lining."
+    },
+    {
+      "term": "ORS",
+      "def": "Oral rehydration solution: water with a measured amount of salts and sugar that the gut can absorb even during diarrhoea."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "intestineclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
